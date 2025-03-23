@@ -1,4 +1,6 @@
 ## Hi there 👋
+🌱 I’m currently learning web development through The Odin Project
+🔭 I’m currently working as an IT Project Manager 
 
 <!--
 **jdmcodes/jdmcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
